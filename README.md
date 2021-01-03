@@ -1,3 +1,3 @@
 # scheduling_app
 
-A scheduling apps writtern in Rust.
+A scheduling web apps written in Rust.
